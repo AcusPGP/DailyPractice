@@ -1,8 +1,7 @@
 # LeetCode Exercises
 ### Exercise 1: Two Sum 
 
-> You can find the problem description on the internet or LeetCode website: https://leetcode.com/problems/two-sum/
-
+- You can find the problem description on the internet or LeetCode website: https://leetcode.com/problems/two-sum/
 - Project link (GitHub): https://github.com/AcusPGP/DailyPractice
 - Project's author: Pham Gia Phuc - "Acus" (Personal profile: https://github.com/AcusPGP)
 -----------------------------------
