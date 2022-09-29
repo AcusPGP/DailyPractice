@@ -1,8 +1,7 @@
 /**
  * LeetCode Exercises
- * Exercise 1: Two Sum
+ * Problem 1: Two Sum
  */
-
 
 package leetcode.twoSum;
 
