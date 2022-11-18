@@ -1,4 +1,4 @@
-/**
+/*
  * LeetCode Exercises
  * Problem 217: Contains Duplicate
  */
